@@ -1,0 +1,8 @@
+{% extends 'blocks/html5.twig' %}
+{% block content %}
+    <h1>foo: {{ foo }}</h1>
+    <h2>Loop a Array</h2>
+       {% for each in array %}
+        {{ each }}<br>
+    {% endfor %}
+{% endblock %}
