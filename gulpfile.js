@@ -40,4 +40,4 @@ gulp.task('browserSync', function() {
 });
 
 
-gulp.task('MFLT', ['sass', 'watch',  'twig', 'browserSync'], function (){});
+gulp.task('default', ['sass', 'watch',  'twig', 'browserSync'], function (){});
