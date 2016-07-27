@@ -7,11 +7,11 @@
 - Run "npm install --save-dev"
 - Run "gulp"
 
-### features
+### Features
 - Twig listener
 - SASS/SCSS listener
 - Browser Sync (Reload)
 - Local data (app/data.json)
 
-### future
+### Future
 - data.json will be sync with a mysql database
