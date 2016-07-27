@@ -1,11 +1,11 @@
 # Make Front Like This
 
-## What is need?
+### What is need?
 - NodeJS
 
-## How to
+### How to
 - Run "npm install --save-dev"
-- Run "gulp execute"
+- Run "gulp"
 
 ### features
 - Twig listener
